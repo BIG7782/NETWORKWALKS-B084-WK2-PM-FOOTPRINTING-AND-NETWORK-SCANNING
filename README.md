@@ -259,13 +259,13 @@ NETWORKWALKS-B084-WK2-PM-FOOTPRINTING-AND-NETWORK-SCANNING/
 │   ├── 07-theharvester.png
 │   ├── 08-zenmap-scan.png
 │   ├── 09-network-topology.png
-│   └── 10-windows-network-config.png
+│   
 │
 ├── Report/
 │   ├── W2-PM-FINAL-Report.docx
 │   
 │
-└── LICENSE
+
 ```
 
 ## Author
