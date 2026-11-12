@@ -263,7 +263,7 @@ NETWORKWALKS-B084-WK2-PM-FOOTPRINTING-AND-NETWORK-SCANNING/
 │
 ├── Report/
 │   ├── W2-PM-FINAL-Report.docx
-│   └── Network-Topology.pdf
+│   
 │
 └── LICENSE
 ```
