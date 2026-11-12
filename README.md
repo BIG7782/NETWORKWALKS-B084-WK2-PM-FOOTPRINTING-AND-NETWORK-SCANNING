@@ -248,23 +248,16 @@ The complete penetration testing report includes:
 NETWORKWALKS-B084-WK2-PM-FOOTPRINTING-AND-NETWORK-SCANNING/
 │
 ├── README.md
-│
-├── Screenshots/
-│   ├── 01-whois.png
-│   ├── 02-whatweb.png
-│   ├── 03-nslookup.png
-│   ├── 04-curl-headers.png
-│   ├── 05-wafw00f.png
-│   ├── 06-dnsrecon.png
-│   ├── 07-theharvester.png
-│   ├── 08-zenmap-scan.png
-│   ├── 09-network-topology.png
-│   
-│
-├── Report/
-│   ├── W2-PM-FINAL-Report.docx
-│   
-│
+├── 01-whois.png
+├── 02-whatweb.png
+├── 03-nslookup.png
+├── 04-curl-headers.png
+├── 05-wafw00f.png
+├── 06-dnsrecon.png
+├── 07-theharvester.png
+├── 08-zenmap-scan.png
+├── 09-network-topology.png
+├── W2-PM-FINAL-Report.docx
 
 ```
 
